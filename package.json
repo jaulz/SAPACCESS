@@ -1,0 +1,22 @@
+{
+  "name": "apprfc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js -devmode -something 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SAP"
+  ],
+  "author": "DEC",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "node-rfc": "^0.1.16",
+    "node-windows": "^0.1.14",
+    "r3connect": "^1.1.0"
+  }
+}

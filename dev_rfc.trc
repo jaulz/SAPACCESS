@@ -1,0 +1,231 @@
+
+**** Trace file opened at 2019-03-06, 14:29:30 SE Asia Standard Time
+ RFC library: 721, Current working directory: D:\node\AppRFC, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 158 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 39
+ Hostname: TOM-PC, IP address: 192.168.42.249, IP address_v6: 192.168.42.249
+
+Error during connect: 
+LOCATION    CPIC (TCP/IP) on local host Tom-PC with Unicode
+ERROR       partner '10.11.9.11:3300' not reached
+TIME        Wed Mar 06 14:29:30 2019
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 10.11.9.11:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+
+
+**** Trace file opened at 2019-03-06, 14:32:15 SE Asia Standard Time
+ RFC library: 721, Current working directory: D:\node\AppRFC, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 158 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 39
+ Hostname: TOM-PC, IP address: 192.168.42.249, IP address_v6: 192.168.42.249
+
+Error during connect: 
+LOCATION    CPIC (TCP/IP) on local host Tom-PC with Unicode
+ERROR       partner '10.11.9.11:3300' not reached
+TIME        Wed Mar 06 14:32:15 2019
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 10.11.9.11:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+
+
+**** Trace file opened at 2019-03-13, 16:59:38 SE Asia Standard Time
+ RFC library: 721, Current working directory: D:\node\AppRFC, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 158 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 39
+ Hostname: TOM-PC, IP address: 10.11.4.83, IP address_v6: 10.11.4.83
+
+
+ERROR       program state check for conversation 74408578
+TIME        Wed Mar 13 16:59:38 2019
+RELEASE     721
+COMPONENT   CPIC (TCP/IP) with Unicode
+VERSION     3
+RC          471
+MODULE      r3cpic.c
+LINE        6078
+DETAIL      called function STSEND in state state=BUFFER_DATA2
+COUNTER     1
+
+
+ERROR       internal error
+TIME        Wed Mar 13 16:59:38 2019
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -1
+DETAIL      NiErrSet
+COUNTER     2
+
+
+**** Trace file opened at 2019-03-13, 17:00:17 SE Asia Standard Time
+ RFC library: 721, Current working directory: D:\node\AppRFC, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 158 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 39
+ Hostname: TOM-PC, IP address: 10.11.4.83, IP address_v6: 10.11.4.83
+
+
+ERROR       program state check for conversation 74456541
+TIME        Wed Mar 13 17:00:17 2019
+RELEASE     721
+COMPONENT   CPIC (TCP/IP) with Unicode
+VERSION     3
+RC          471
+MODULE      r3cpic.c
+LINE        6078
+DETAIL      called function STSEND in state state=BUFFER_DATA2
+COUNTER     1
+
+
+ERROR       internal error
+TIME        Wed Mar 13 17:00:18 2019
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -1
+DETAIL      NiErrSet
+COUNTER     2
+
+
+**** Trace file opened at 2019-03-14, 16:22:58 SE Asia Standard Time
+ RFC library: 721, Current working directory: D:\node\AppRFC, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 158 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 39
+ Hostname: TOM-PC, IP address: 169.254.183.115, IP address_v6: 169.254.183.115
+
+Error during connect: 
+LOCATION    CPIC (TCP/IP) on local host Tom-PC with Unicode
+ERROR       partner '10.11.9.22:3301' not reached
+TIME        Thu Mar 14 16:22:58 2019
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 10.11.9.22:3301
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     2
+
+
+
+**** Trace file opened at 2019-03-14, 16:27:55 SE Asia Standard Time
+ RFC library: 721, Current working directory: D:\node\AppRFC, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 158 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 39
+ Hostname: TOM-PC, IP address: 169.254.183.115, IP address_v6: 169.254.183.115
+
+Error during connect: 
+LOCATION    CPIC (TCP/IP) on local host Tom-PC with Unicode
+ERROR       partner '10.11.9.22:3301' not reached
+TIME        Thu Mar 14 16:27:55 2019
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 10.11.9.22:3301
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     2
+
+
+
+**** Trace file opened at 2019-03-14, 16:28:42 SE Asia Standard Time
+ RFC library: 721, Current working directory: D:\node\AppRFC, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 158 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 39
+ Hostname: TOM-PC, IP address: 169.254.183.115, IP address_v6: 169.254.183.115
+
+Error during connect: 
+LOCATION    CPIC (TCP/IP) on local host Tom-PC with Unicode
+ERROR       partner '10.11.9.22:3301' not reached
+TIME        Thu Mar 14 16:28:42 2019
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 10.11.9.22:3301
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     2
+
+
+
+**** Trace file opened at 2019-03-14, 16:32:49 SE Asia Standard Time
+ RFC library: 721, Current working directory: d:\node\AppRFC, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 158 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 39
+ Hostname: TOM-PC, IP address: 169.254.183.115, IP address_v6: 169.254.183.115
+
+Error during connect: 
+LOCATION    CPIC (TCP/IP) on local host Tom-PC with Unicode
+ERROR       partner '10.11.9.22:3301' not reached
+TIME        Thu Mar 14 16:32:49 2019
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 10.11.9.22:3301
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     2
+
+
+
+**** Trace file opened at 2019-03-14, 16:37:02 SE Asia Standard Time
+ RFC library: 721, Current working directory: d:\node\AppRFC, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 158 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 39
+ Hostname: TOM-PC, IP address: 169.254.183.115, IP address_v6: 169.254.183.115
+
+Error during connect: 
+LOCATION    CPIC (TCP/IP) on local host Tom-PC with Unicode
+ERROR       partner '10.11.9.22:3301' not reached
+TIME        Thu Mar 14 16:37:02 2019
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 10.11.9.22:3301
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     2
+
+
+
+**** Trace file opened at 2019-03-19, 14:19:11 SE Asia Standard Time
+ RFC library: 721, Current working directory: d:\node\AppRFC, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 158 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 39
+ Hostname: TOM-PC, IP address: 10.11.4.83, IP address_v6: 10.11.4.83
+
+connection closed without message (CM_NO_DATA_RECEIVED)
+
+**** Trace file opened at 2019-03-23, 14:53:44 SE Asia Standard Time
+ RFC library: 721, Current working directory: D:\node\AppRFC, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 158 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 39
+ Hostname: TOM-PC, IP address: 10.11.4.83, IP address_v6: 10.11.4.83
+
+connection closed without message (CM_NO_DATA_RECEIVED)

@@ -1,0 +1,32 @@
+C:\Users\Win7\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (C:\Users\Win7\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:189:13)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error [ERR_IPC_CHANNEL_CLOSED]: Channel closed
+    at ChildProcess.target.send (internal/child_process.js:636:16)
+    at process.killkid (C:\Users\Win7\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:189:13)
+Emitted 'error' event at:
+    at process.nextTick (internal/child_process.js:640:35)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+C:\Users\Win7\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (C:\Users\Win7\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:189:13)
+C:\Users\Win7\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (C:\Users\Win7\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:189:13)

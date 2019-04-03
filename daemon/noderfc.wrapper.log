@@ -1,0 +1,48 @@
+2019-03-23 11:17:19 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Win7\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\node\AppRFC\app.js --log "NodeRFC wrapper" --grow 0.5 --wait 2 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-23 11:17:19 - Started 7172
+2019-03-23 11:18:29 - Stopping noderfc.exe
+2019-03-23 11:18:29 - ProcessKill 7172
+2019-03-23 11:18:30 - Found child process: 3016 Name: node.exe
+2019-03-23 11:18:30 - Stopping process 3016
+2019-03-23 11:18:30 - Send SIGINT 3016
+2019-03-23 11:18:30 - SIGINT to 3016 failed - Killing as fallback
+2019-03-23 11:18:30 - Stopping process 7172
+2019-03-23 11:18:30 - Send SIGINT 7172
+2019-03-23 11:18:30 - SIGINT to7172 successful
+2019-03-23 11:18:30 - Finished noderfc.exe
+2019-03-23 11:18:31 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Win7\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\node\AppRFC\app.js --log "NodeRFC wrapper" --grow 0.5 --wait 2 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-23 11:18:31 - Started 1428
+2019-03-23 11:19:11 - Stopping noderfc.exe
+2019-03-23 11:19:11 - ProcessKill 1428
+2019-03-23 11:19:11 - Found child process: 3200 Name: node.exe
+2019-03-23 11:19:11 - Stopping process 3200
+2019-03-23 11:19:11 - Send SIGINT 3200
+2019-03-23 11:19:11 - SIGINT to 3200 failed - Killing as fallback
+2019-03-23 11:19:11 - Stopping process 1428
+2019-03-23 11:19:11 - Send SIGINT 1428
+2019-03-23 11:19:11 - SIGINT to1428 successful
+2019-03-23 11:19:11 - Finished noderfc.exe
+2019-03-23 11:19:13 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Win7\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\node\AppRFC\app.js --log "NodeRFC wrapper" --grow 0.5 --wait 2 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-23 11:19:13 - Started 2216
+2019-03-23 11:20:37 - Stopping noderfc.exe
+2019-03-23 11:20:37 - ProcessKill 2216
+2019-03-23 11:20:37 - Found child process: 9100 Name: node.exe
+2019-03-23 11:20:37 - Stopping process 9100
+2019-03-23 11:20:37 - Send SIGINT 9100
+2019-03-23 11:20:37 - SIGINT to 9100 failed - Killing as fallback
+2019-03-23 11:20:37 - Stopping process 2216
+2019-03-23 11:20:37 - Send SIGINT 2216
+2019-03-23 11:20:37 - SIGINT to2216 successful
+2019-03-23 11:20:37 - Finished noderfc.exe
+2019-03-25 13:10:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Win7\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\node\AppRFC\app.js --log "NodeRFC wrapper" --grow 0.5 --wait 2 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-25 13:10:32 - Started 7180
+2019-03-25 13:18:16 - Stopping noderfc.exe
+2019-03-25 13:18:16 - ProcessKill 7180
+2019-03-25 13:18:19 - Found child process: 7328 Name: node.exe
+2019-03-25 13:18:19 - Stopping process 7328
+2019-03-25 13:18:19 - Send SIGINT 7328
+2019-03-25 13:18:19 - SIGINT to 7328 failed - Killing as fallback
+2019-03-25 13:18:20 - Stopping process 7180
+2019-03-25 13:18:20 - Send SIGINT 7180
+2019-03-25 13:18:21 - SIGINT to7180 successful
+2019-03-25 13:18:21 - Finished noderfc.exe
